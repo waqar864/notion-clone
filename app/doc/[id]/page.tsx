@@ -1,4 +1,4 @@
-'use client'
+// 'use client'
 import Document from '@/components/Document'
 
 function DocumnetPage({
