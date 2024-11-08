@@ -89,7 +89,7 @@ function Sidebar() {
             ))}
             </>
         )}
-        </div>
+        
        
         {/* shared with me  */}
         {groupedData.editor.length > 0 &&(
@@ -103,6 +103,7 @@ function Sidebar() {
             ))}
             </>
         )}
+        </div>
         {/* list */}
         </>
     )
